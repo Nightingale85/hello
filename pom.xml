@@ -41,7 +41,7 @@
                 <configuration>
                     <warName>hello</warName>
                     <outputDirectory>war</outputDirectory>
-                    <webXml>..\src\main\java\webapp\WEB-INF\web.xml</webXml>
+                    <webXml>..Cookies\src\main\java\webapp\WEB-INF\web.xml</webXml>
                     <webResources>
                         <resource>
                             <directory>\src\main\java\webapp\veiw\css</directory>
