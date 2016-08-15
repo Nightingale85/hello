@@ -12,7 +12,8 @@ body {
 }
 body {
     font-family: sans-serif;
-    background-color: #323B55;
+    background-color: #ff670f;
+    z-index: 10000;
 }
 #admintable {
     margin-left: auto;

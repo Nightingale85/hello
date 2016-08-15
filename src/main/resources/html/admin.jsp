@@ -5,11 +5,11 @@
 <head>
     <meta charset="utf-8">
     <title>Slick Login</title>
-    <link rel="stylesheet" type="text/css" href="/resources/css/admin.css" />
-    <script src="/resources/js/jquery-2.2.3.js"></script>
-    <script src="/resources/js/ajaxadmin.js"></script>
-    <script src="/resources/js/langvalidation.js"></script>
-    <script src="/resources/js/validationlang.js"></script>
+    <link rel="stylesheet" type="text/css" href="/veiw/css/admin.css" />
+    <script src="/veiw/js/jquery-2.2.3.js"></script>
+    <script src="/veiw/js/ajaxadmin.js"></script>
+    <script src="/veiw/js/langvalidation.js"></script>
+    <script src="/veiw/js/validationlang.js"></script>
 </head>
 <body>
 <header>
